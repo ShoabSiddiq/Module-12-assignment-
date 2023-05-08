@@ -1,0 +1,10 @@
+This is basically a BMI calculator.
+Here are two input field
+1.Weight(kg)
+2.Height(cm)
+
+when user press calculate BMI button then it caalculate user BMI
+
+Deployed Netlify link:
+
+https://6458ebac0554c831b743ee0c--grand-lily-bf81db.netlify.app
